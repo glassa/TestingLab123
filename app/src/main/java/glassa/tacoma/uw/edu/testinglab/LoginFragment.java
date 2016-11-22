@@ -1,4 +1,4 @@
-package tonyklee.tacoma.uw.edu.testinglab;
+package glassa.tacoma.uw.edu.testinglab;
 
 
 import android.content.Intent;
@@ -12,9 +12,9 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
-import tonyklee.tacoma.uw.edu.testinglab.menu.MenuActivity;
-import tonyklee.tacoma.uw.edu.testinglab.util.SharedPreferenceEntry;
-import tonyklee.tacoma.uw.edu.testinglab.util.SharedPreferencesHelper;
+import glassa.tacoma.uw.edu.testinglab.menu.MenuActivity;
+import glassa.tacoma.uw.edu.testinglab.util.SharedPreferenceEntry;
+import glassa.tacoma.uw.edu.testinglab.util.SharedPreferencesHelper;
 
 
 /**

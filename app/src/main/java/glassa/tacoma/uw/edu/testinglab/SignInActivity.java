@@ -1,4 +1,4 @@
-package tonyklee.tacoma.uw.edu.testinglab;
+package glassa.tacoma.uw.edu.testinglab;
 
 import android.content.SharedPreferences;
 import android.os.AsyncTask;
@@ -20,10 +20,11 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.net.URLEncoder;
 
-import tonyklee.tacoma.uw.edu.testinglab.authenticate.Account;
-import tonyklee.tacoma.uw.edu.testinglab.authenticate.RegisterFragment;
-import tonyklee.tacoma.uw.edu.testinglab.util.SharedPreferenceEntry;
-import tonyklee.tacoma.uw.edu.testinglab.util.SharedPreferencesHelper;
+import glassa.tacoma.uw.edu.testinglab.LoginFragment;
+import glassa.tacoma.uw.edu.testinglab.authenticate.Account;
+import glassa.tacoma.uw.edu.testinglab.authenticate.RegisterFragment;
+import glassa.tacoma.uw.edu.testinglab.util.SharedPreferenceEntry;
+import glassa.tacoma.uw.edu.testinglab.util.SharedPreferencesHelper;
 
 
 public class SignInActivity extends AppCompatActivity implements RegisterFragment.OnRegisterListener{

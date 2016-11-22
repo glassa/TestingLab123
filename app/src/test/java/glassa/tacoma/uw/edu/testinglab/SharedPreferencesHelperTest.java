@@ -1,7 +1,7 @@
-package tonyklee.tacoma.uw.edu.testinglab;
+package glassa.tacoma.uw.edu.testinglab;
 
 /**
- * Created by Tony on 11/14/2016.
+ * Created by aglas on 11/14/2016.
  */
 
 import android.content.SharedPreferences;
@@ -14,8 +14,8 @@ import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.runners.MockitoJUnitRunner;
 
-import tonyklee.tacoma.uw.edu.testinglab.util.SharedPreferenceEntry;
-import tonyklee.tacoma.uw.edu.testinglab.util.SharedPreferencesHelper;
+import glassa.tacoma.uw.edu.testinglab.util.SharedPreferenceEntry;
+import glassa.tacoma.uw.edu.testinglab.util.SharedPreferencesHelper;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.CoreMatchers.is;

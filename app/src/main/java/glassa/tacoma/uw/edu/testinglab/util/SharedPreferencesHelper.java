@@ -1,7 +1,7 @@
-package tonyklee.tacoma.uw.edu.testinglab.util;
+package glassa.tacoma.uw.edu.testinglab.util;
 
 /**
- * Created by Tony on 11/14/2016.
+ * Created by aglass on 11/14/2016.
  */
 
 import android.content.SharedPreferences;

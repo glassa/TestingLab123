@@ -1,8 +1,8 @@
-package tonyklee.tacoma.uw.edu.testinglab;
+package glassa.tacoma.uw.edu.testinglab;
 
 import org.junit.Test;
 
-import tonyklee.tacoma.uw.edu.testinglab.authenticate.Account;
+import glassa.tacoma.uw.edu.testinglab.authenticate.Account;
 
 import static junit.framework.Assert.assertEquals;
 import static junit.framework.Assert.assertNotNull;
@@ -10,7 +10,7 @@ import static junit.framework.Assert.fail;
 import static org.junit.Assert.assertNotEquals;
 
 /**
- * Created by Tony on 11/14/2016.
+ * Created by aglass on 11/14/2016.
  */
 
 public class AccountTest {

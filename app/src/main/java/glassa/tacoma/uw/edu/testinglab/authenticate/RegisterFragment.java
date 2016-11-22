@@ -1,4 +1,4 @@
-package tonyklee.tacoma.uw.edu.testinglab.authenticate;
+package glassa.tacoma.uw.edu.testinglab.authenticate;
 
 
 import android.os.Bundle;
@@ -11,8 +11,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import tonyklee.tacoma.uw.edu.testinglab.R;
-import tonyklee.tacoma.uw.edu.testinglab.SignInActivity;
+import glassa.tacoma.uw.edu.testinglab.R;
+import glassa.tacoma.uw.edu.testinglab.SignInActivity;
 
 
 /**

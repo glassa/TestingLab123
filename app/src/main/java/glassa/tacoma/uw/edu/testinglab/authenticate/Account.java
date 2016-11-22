@@ -1,9 +1,9 @@
-package tonyklee.tacoma.uw.edu.testinglab.authenticate;
+package glassa.tacoma.uw.edu.testinglab.authenticate;
 
 import java.util.regex.Pattern;
 
 /**
- * Created by Tony on 11/14/2016.
+ * Created by aglas on 11/14/2016.
  */
 
 public class Account {
